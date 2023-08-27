@@ -1,6 +1,6 @@
 # afia
 
-A new Flutter project.
+A Flutter project for Graduation project, it's for Nutrition and Fitness.
 
 ## Getting Started
 
